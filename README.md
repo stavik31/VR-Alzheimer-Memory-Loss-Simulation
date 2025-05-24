@@ -1,2 +1,5 @@
-# VR-Alzheimer-Memory-Loss-Simulation
-A Unity application that simulates Alzheimer-like memory loss to test prospective memory and task efficiency in healthy participants.
+# VR-Alzheimer-Memory-Loss-Simulation - Work In Progress
+
+This repository will soon contain files for my Unity project.  
+Currently a work in progress — files will be uploaded soon.  
+Stay tuned!
