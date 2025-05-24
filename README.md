@@ -1,4 +1,4 @@
-# VR-Alzheimer-Memory-Loss-Simulation - Work In Progress
+# VR-Alzheimer-Memory-Loss-Simulation 
 
 This repository will soon contain files for my Unity project.  
 Currently a work in progress — files will be uploaded soon.  
